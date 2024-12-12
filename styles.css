@@ -37,10 +37,7 @@ body, html {
   .nav-item {
    margin-left: 3rem;
   }
-  .nav-item:hover {
-   border: #ff1e00;
-
-  }
+  
  .navbar-brand  { 
     color: #0a0101; /* Navbar link color */ 
     text-decoration: none; 
@@ -58,11 +55,7 @@ body, html {
    color:#ff1e00;
    
  } 
- 
- .navbar-nav, .nav-item, .nav-link:hover {
-   background-color: #ff1e00;
 
- }
 
  
 .carousel-item { 
